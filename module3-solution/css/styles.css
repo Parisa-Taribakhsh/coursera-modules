@@ -1,0 +1,59 @@
+body {
+    min-width: 240px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen', sans-serif;
+    background-color:rgba(46,0,79,0.64);
+  }
+  
+  #header-nav {
+      background-color: #f5fa93;
+    border-radius: 0;
+    border: 0;
+  }
+  
+  .item-description{
+    background-color:rgb(77, 168, 148);
+  }
+  
+  .navbar-brand h1 { 
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px  #444;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    color: rgba(93, 58, 120, 0.64);
+  }
+  
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+ 
+  
+  #nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    color:rgba(46,0,79,0.64);
+    text-align: center;
+  
+  }
+  
+  #nav-list a:hover {
+    background:#faf7da;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid rgba(46,0,79,0.64);
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -42px;
+  }
+  
